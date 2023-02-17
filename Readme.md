@@ -15,7 +15,6 @@ qb-input - https://github.com/qbcore-framework/qb-input
 qb-menu - https://github.com/qbcore-framework/qb-menu
 
 qb-policejob - https://github.com/qbcore-framework/qb-policejob
-> IF YOU USE A DIFFERENT POLICE ALERT SYSTEM PLEASE LET ME KNOW SO THAT I COULD CHANGE IT! [Support](https://discord.gg/PkJGQ6EdZp)
 
 ## Add to qb-smallresources/server/consumeables.lua. 
 ```
